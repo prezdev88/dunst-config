@@ -2,7 +2,7 @@
     follow = keyboard
     width = (0, 1500)
     height = (0, 950)
-    origin = top-right
+    origin = bottom-right
     offset = 48x60
     scale = 1
     notification_limit = 10
